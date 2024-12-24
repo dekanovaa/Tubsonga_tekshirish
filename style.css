@@ -1,0 +1,16 @@
+p{
+    color: green;
+    font-size: 30px;
+}
+#number{
+    padding: 15px;
+}
+button{
+    padding: 15px;
+    background-color: rgb(181, 178, 178);
+    color: white;
+}
+div{
+    width: auto;
+    margin: 0 auto;
+}
